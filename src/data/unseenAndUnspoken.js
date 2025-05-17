@@ -343,7 +343,7 @@ export const unseenAndUnspoken = {
         idx: 4,  // for internal use
         format: AllowedFormats.Image,  // for rendering
         visible: true,
-        artist_name: "Jamie Woo",
+        artist_name: "Jaime Woo",
         ins_handle: [""],
         quote: '',
         bio: "I am a writer and mindfulness practitioner and teacher based in Scarborough, and hold a Master of " +
